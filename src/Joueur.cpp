@@ -8,4 +8,5 @@ Joueur::Joueur()
 Joueur::~Joueur()
 {
     //dtor
+    //destructor
 }
