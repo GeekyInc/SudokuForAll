@@ -8,5 +8,6 @@ Joueur::Joueur()
 Joueur::~Joueur()
 {
     //dtor
-    //des
+    //des hello
+    delete this;
 }
